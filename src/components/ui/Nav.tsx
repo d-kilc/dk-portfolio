@@ -1,6 +1,5 @@
 import { FunctionComponent } from 'preact'
 import { useState } from 'preact/hooks'
-import ThemeToggler from './ThemeToggler'
 import MobileMenu from './MobileMenu'
 
 const Nav: FunctionComponent = () => {

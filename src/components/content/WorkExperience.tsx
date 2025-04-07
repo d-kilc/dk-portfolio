@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion'
 import { FunctionComponent } from 'preact'
 import Timeline, { type TimelineEvent } from '../ui/Timeline'
 
@@ -50,7 +49,6 @@ const experiences: TimelineEvent[] = [
     ],
     badges: ["Neo4j", "Tableau", "Requirements gathering", "Technical documentation"]
   },
-  // Add more experience items here
 ]
 
 const WorkExperience: FunctionComponent = () => {
