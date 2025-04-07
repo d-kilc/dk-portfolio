@@ -15,31 +15,23 @@ const App = () => {
     <>
     <Nav/>
     <div id="content">
-      
       <Header/>
-
       <Section id="about" title="About Me">
         <About/>
       </Section>
-
       <Section id="education" title="Education">
         <Education/>
       </Section>
-
       <Section id="work" title="Experience">
         <WorkExperience/>
       </Section>
-
       <Section id="certifications" title="Certifications">
         <Certifications/>
       </Section>
-
       <Section id="contact" title="Contact">
         <Contact/>
       </Section>
-
       <Footer/>
-
       <div class="theme-toggle-container">
         <ThemeToggler/>
       </div>
