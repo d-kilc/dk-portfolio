@@ -8,7 +8,7 @@ import WorkExperience from './components/content/WorkExperience'
 import Education from './components/content/Education'  
 import Contact from './components/content/Contact'
 import Certifications from './components/content/Certifications'
-import './App.css'
+import './app.css'
 
 const App = () => {
   return (
