@@ -43,7 +43,7 @@ const experiences: TimelineEvent[] = [
     title: "Consultant - Product Engineering Services",
     smallText: "August 2019 - May 2020",
     bullets: [
-      "Supported the technical lead on an engagement with a global engineering firm in documenting technical system specificaOons, design patterns and development guidelines for the pilot implementation of a three-year, $150 million digital transformation effort under an accelerated timeline",
+      "Supported the technical lead on an engagement with a global engineering firm in documenting technical system specifications, design patterns and development guidelines for the pilot implementation of a three-year, $150 million digital transformation effort under an accelerated timeline",
       "Developed a graph database POC on Neo4j using a Medicare claims dataset to detect possible fraud based on the types of submitted claims and Jaccard similarity between physicians",
       'Led the Hitachi Core Pulse program for the Americas, serving as a liaison between new hires and the firm at-large, and hosted “Fireside Chat” events to elicit feedback from members of the Chicago office'
     ],
