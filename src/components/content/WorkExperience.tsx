@@ -32,9 +32,9 @@ const experiences: TimelineEvent[] = [
     smallText: "June 2020 - November 2021",
     bullets: [
       "Served eight counties in their migration to iasWorld, Tyler’s property tax and appraisal management solution, implemented the system according to client specifications and state property tax law, and facilitated the conversion of sensitive legacy data",
-      "Led client-facing training sessions with high-level county officials on technical topics pertaining to administraOon of property tax",
+      "Led client-facing training sessions with high-level county officials on technical topics pertaining to administration of property tax",
       "Managed the requirements-gathering, design, development and testing of three major system customizations",
-      "Served on the development planning PMO commifee to produce forecasts of developer capacity using Excel models and Power BI"
+      "Served on the development planning PMO committee to produce forecasts of developer capacity using Excel models and Power BI"
     ],
     badges: ["End-user training", "SQL Server", "Power BI"]
   },
